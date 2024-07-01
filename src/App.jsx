@@ -7,9 +7,12 @@ import './App.css'
 function App() {
 
   return (
-    <>
-    <h1>Hello</h1>
-    </>
+    <div className='container'>
+    <Info />
+    <About />
+    <Interests />
+    <Footer />
+    </div>
   )
 }
 
