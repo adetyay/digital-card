@@ -3,10 +3,10 @@ import React from 'react'
 function Footer() {
   return (
     <div className='footer'>
-      <i class="fa-brands fa-github"></i>
-      <i class="fa-brands fa-discord"></i>
-      <i class="fa-brands fa-instagram"></i>
-      <i class="fa-brands fa-spotify"></i>
+      <a href="https://github.com/adityax4"><i class="fa-brands fa-github"></i></a>
+      <a href="#"><i class="fa-brands fa-discord"></i></a>
+      <a href="#"><i class="fa-brands fa-instagram"></i></a>
+      <a href="#"><i class="fa-brands fa-spotify"></i></a>
     </div>
   )
 }

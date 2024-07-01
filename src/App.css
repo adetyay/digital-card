@@ -27,7 +27,7 @@ body{
     text-align: center;
 }
 
-.button > button{
+a > button{
     cursor: pointer;
     border: none;
     border-radius: 6px;
@@ -37,11 +37,12 @@ body{
 }
 
 .email-btn{
+    background-color: #DBC7BD;
     margin-right: 17px;
 }
 
 .twitter-btn{
-    background-color: #5093E2;
+    background-color: #6D6677;
     color: white;
 }
 
@@ -95,14 +96,15 @@ body{
 }
 
 .footer{
-    background-color: #161619;
+    background-color: #30111A;
     border-radius: 0 0 10px 10px;
-    height: 64px;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 
-.footer > i{
+.footer i{
     font-size: 20px;
+    color: white;
 }

@@ -3,8 +3,8 @@ import React from 'react'
 function Interests() {
   return (
     <div className='interests'>
-      <h1>Interests</h1>
-      <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+      <h1>interests</h1>
+      <p>love reading & writing poems, anime & manga enthusiast, one piece is the best piece of fiction ever. </p>
     </div>
   )
 }
