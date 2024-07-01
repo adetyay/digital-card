@@ -91,5 +91,18 @@ body{
     margin: 0;
     font-size: 11px;
     line-height: 150%;
+    margin-bottom: 25px;
 }
 
+.footer{
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.footer > i{
+    font-size: 20px;
+}
