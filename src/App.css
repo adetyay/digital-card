@@ -17,6 +17,7 @@ body{
 .info > img{
     width: 315px;
     height: 315px;
+    border-radius: 10px 10px 0 0;
 }
 
 .info > h1{
@@ -62,7 +63,7 @@ body{
     font-size: 11px;
 }
 
-.about{
+.about, .interests{
     padding: 0 35px;
 }
 
@@ -73,8 +74,22 @@ body{
     margin-top: 35px;
 }
 
+.interests > h1{
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
 .about > p{
     margin: 0;
     font-size: 11px;
     line-height: 150%;
 }
+
+.interests > p{
+    margin: 0;
+    font-size: 11px;
+    line-height: 150%;
+}
+
