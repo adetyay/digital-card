@@ -4,8 +4,14 @@
 }
 
 body{
+    background-color: #23252C;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.app{
+    background-color: #1A1B21;
+    max-width: 315px;
 }
