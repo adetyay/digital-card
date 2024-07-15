@@ -4,7 +4,7 @@ function Interests() {
   return (
     <div className='interests'>
       <h1>interests</h1>
-      <p>love reading & writing poems, anime & manga enthusiast, one piece is the best piece of fiction ever. </p>
+      <p>love reading books(go read "tuesdays with morrie") & writing poems(in my notes app), anime & manga enthusiast, one piece is the best piece of fiction ever. </p>
     </div>
   )
 }
